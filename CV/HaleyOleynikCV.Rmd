@@ -10,7 +10,6 @@ address: "Institute for the Oceans and Fisheries, University of British Columbia
 fontawesome: yes
 email: h.oleynik@oceans.ubc.ca
 #github: haleyoleynik
-#twitter: fish_follower
 #osf: "Enter 5 digit osf string here"
 phone: "+1 571 271 2105"
 web: haleyoleynik.github.io
@@ -43,6 +42,18 @@ urlcolor: blue
 *Institute for the Oceans and Fisheries* University of British Columbia 
 
 - Multifactor, multistock impact analysis of salmon and steelhead fisheries in British Columbia and a retrospective analysis of ecological and socioeconomic conditions in these fisheries
+
+**Aquatic Biologist II** \hfill Jun 2024 - Present
+
+*Department of Fisheries and Oceans Canada* Vancouver, B.C.
+
+- Use emperical Harbour Seal diet data and modeled diet data from EcoSpace to statistically validate model outputs and inform field sampling programs
+
+**Graduate Research Assistant** \hfill Jan 2024 - Present
+
+*U.S. Army Corps of Engineers*  
+
+- Conduct statistical analyses of juvenile Chinook salmon survival through dams as part of a Army Corps of Engineers funded project led by Dr. Murdoch McAllister at UBC
 
 **M.S. Student** \hfill Sept 2018 - July 2020
 
@@ -143,6 +154,8 @@ urlcolor: blue
 ---------------------------------------------
 
 # PUBLICATIONS
+
+Brodziak, J., M. Supernaw, B. Li, C. Stawitz, **H. A. Oleynik**, T. A’mar. (2025) Engineering a prototype for a next generation stock assessment modeling platform. Fishery Bulletin. 123(2). 88-104. 
 
 **Oleynik, H.A.**, J.J Bizzarro, E.A. Hale, A.B. Carlisle. 2024. Environmental drivers of biogeography and community structure in a Mid-Atlantic estuary. Oecologia. https://doi.org/10.1007/s00442-023-05500-z
 
