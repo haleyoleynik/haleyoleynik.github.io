@@ -41,31 +41,48 @@ urlcolor: blue
 
 *Institute for the Oceans and Fisheries* University of British Columbia 
 
-- Multifactor, multistock impact analysis of salmon and steelhead fisheries in British Columbia and a retrospective analysis of ecological and socioeconomic conditions in these fisheries
+* Multifactor, multistock analysis of salmon and steelhead population dynamics in British Columbia and a retrospective analysis of ecological and socioeconomic conditions in these fisheries
+* Population modeling to identify drivers of productivity declines in Fraser River salmon populations, with the goal of furthering understanding of regional, multi-species population patterns, and identifying ecological and anthropogenic drivers of salmon population decline
+- *Skills: Statistical modeling, Bayesian modeling, R programming, Git/Github, stakeholder engagement*
 
-**Aquatic Biologist II** \hfill Jun 2024 - Present
+**Research Analyst** \hfill Feb 2026 - Present
 
-*Department of Fisheries and Oceans Canada* Vancouver, B.C.
+*Pacific Salmon Commission*  Vancouver, B.C.
 
-- Use emperical Harbour Seal diet data and modeled diet data from EcoSpace to statistically validate model outputs and inform field sampling programs
+- Analyze salmon monitoring data to statistically evaluate the use of a new monitoring method for salmon passage through Hells Gate, a narrow gorge which poses passage challenges for salmon migrating up the Fraser River to their spawning grounds
+- *Skills: Statistical modeling, R programming,  Git/Github*
 
 **Graduate Research Assistant** \hfill Jan 2024 - Present
 
-*U.S. Army Corps of Engineers*  
+*United States Army Corps of Engineers*  
 
-- Conduct statistical analyses of juvenile Chinook salmon survival through dams as part of a Army Corps of Engineers funded project led by Dr. Murdoch McAllister at UBC
+- Part time research analyst conducting statistical modeling of salmon passage and survival through dams in the Willamette River system in Oregon
+- *Skills: Statistical modeling, Bayesian modeling, JAGS programming, data analysis, stakeholder engagement, R programming*
+
+\newpage
+
+**Aquatic Biologist II** \hfill Jun 2025 - March 2026
+
+*Department of Fisheries and Oceans Canada* Vancouver, B.C.
+
+- Use empirical Harbour Seal diet data and modeled diet data from Ecopath with Ecospace ecosystem models to statistically validate model outputs and inform field sampling programs
+- *Skills: Spatio-temporal modeling, ecosystem modeling, TMB programming, R programming*
+
 
 **M.S. Student** \hfill Sept 2018 - July 2020
 
 *School of Marine Science and Policy* University of Delaware 
 
 - Analyzed data from the Delaware state trawl survey using multivariate statistical methods in R to describe the fish and invertebrate community in Delaware Bay, identify physical drivers of community composition, and evaluate long-term changes in the community
+- *Skills: Fishery independent data analysis, multivariate statistics, timeseries analysis, R programming*
 
 **Undergraduate Senior Honors Thesis** \hfill Sept 2014 - May 2015
 
 *Department of Sociology* Colby College 
 
 - Collected and analyzed quantitative and qualitative data to understand the societal impacts of the shifting lobster population and subsequent management on the lobster fishing industry in Maine
+
+<!--
 
 **Research Intern** \hfill June 2014 - Aug 2014
 
@@ -78,15 +95,16 @@ urlcolor: blue
 *Smithsonian Natural History Museum* Washington D.C. 
 
 - Curated, identified, and photographed over 50 species of pteropoda to catalogue morphology for research of the genetics, morphology, and biogeographic information of pteropods to better understand ocean connectivity
-
+-->
 ---------------------------------------------
 
 # PROFESSIONAL EXPERIENCE
 
-**Teaching Assistant** \hfill Sept 2023 - Present
+**Teaching Assistant** \hfill Sept 2023 - December 2025
 
 *Master of Data Science Program* University of British Columbia 
 
+Teaching assistant for the following MDS courses:
 - DSCI 552: Statistical Inference and Computation I
 - DSCI 561: Regression I
 - DSCI 562: Regression II 
@@ -102,7 +120,9 @@ urlcolor: blue
 
 *National Stock Assessment Program* NOAA Fisheries 
 
-- Supported the National Stock Assessment Program in the Office of Science and Technology by organizing a technical community, developing the Fisheries Integrated Toolbox, and assisting in research to advance the NOAA stock assessment enterprise
+- Supported the National Stock Assessment Program in the Office of Science and Technology by organizing a technical community, developing the Fisheries Integrated Toolbox, and assisting in research to advance the NOAA stock assessment enterprise and improve regional communication 
+
+\newpage
 
 **Communications Committee Chair** \hfill Oct 2022 - Present
 
@@ -110,46 +130,13 @@ urlcolor: blue
 
 *Association of the Marine Laboratories of the Caribbean* 
 
-- Manage internal and external communication for the AMLC, a nonprofit which connects marine laboratories, scientists, students, and stakeholders in the Wider Caribbean Region.
+- Manage internal and external communication for the AMLC, a nonprofit which connects marine laboratories, scientists, students, and stakeholders in the Wider Caribbean Region
 
 **North Pacific Groundfish Observer** \hfill June 2016 – Jan 2018 
 
 *Saltwater Inc. / NOAA Fisheries* 
 
 - Collected data on catch, bycatch, and fishing effort on board commercial Alaskan fishing vessels to be used by the National Marine Fisheries Service to monitor fish populations, set catch limits, and manage the commercial Alaskan fisheries
-
----------------------------------------------
-
-# AWARDS AND FUNDING
-[**Partnership Engage Grant **](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_engage_grants-subventions_d_engagement_partenarial-eng.aspx) *Social Sciences and Humanities Research Council, Canada*\hfill 2024
-
-[**Buck Suzuki Legacy Bursary Award**](https://www.bucksuzuki.org/diving_into_fishing_misconceptions) *T. Buck Suzuki Foundation*\hfill 2022
-
-[**Frances Severance Thesis Distinction Award**](https://www.udel.edu/academics/colleges/ceoe/about/news/2021/may/ceoe-honors-announced/) *University of Delaware*\hfill 2021
-
-**Daiber Fellowship** *University of Delaware*\hfill 2019
-
-[**Women of Promise Award**](https://www.udel.edu/udaily/2019/march/valerie-biden-owens-women-of-promise-erin-rezich-regina-sims-wright-diversity-awards/) *University of Delaware* \hfill 2019
-
-**Okie Fellowship** *University of Delaware* \hfill 2018
-
-**Dean’s List** *Colby College* \hfill 2014-2015
-
-
----------------------------------------------
-
-# OUTREACH AND ENGAGEMENT 
-
-*REDI Committee* **Student rep**, UBC Institute for the Oceans and Fisheries \hfill 2022-present
-
-*Society for Women in Marine Science* **Co-Chair**, University of Delaware Chapter \hfill 2019-2020
-
-*Graduate Student Association* **Co-Chair**, UD School of Marine Science and Policy \hfill 2019-2020
-
-*Hutton Junior Fisheries Biology Internship* **Reviewer**, American Fisheries Society \hfill 2024
-
-*John A. Knauss Marine Policy Fellowship* **Reviewer**, NOAA Sea Grant  \hfill 2022, 2024
-
 
 ---------------------------------------------
 
@@ -173,11 +160,13 @@ ICES (2022): Working Group on Technology Integration for Fishery-Dependent Data 
 
 <div class="csl-entry">Mathews, J.A., E.A. Hale, **H.A. Oleynik**, et al. (2022) *Exploring Trends in Abundance of Young-of-the-Year and Age-1 Atlantic Croaker, Black Drum, Spot, and Weakfish in Relation to Salinity, Temperature, and Large-Scale Climatic Signals in a Mid-Atlantic Estuary.* <i>Transactions of the American Fisheries Society</i>, <i>151</i>(2), 150–171. https://doi.org/10.1002/TAFS.10332</div>
 
-**Oleynik, H.A.** (2020). *Changes in a Mid-Atlantic Estuary: Trends and Drivers of the Fish and Macroinvertebrate Community in Delaware Bay.* https://udspace.udel.edu/handle/19716/28649 
-
 ---------------------------------------------
 
 # PRESENTATIONS
+
+*"Impacts of Dam Operations on Mortality and Injury of Juvenile Chinook Salmon at Cougar Dam"* Willamette Science Review \hfill March 2026
+
+*"Drivers of Productivity in Fraser River Salmon"* American Fisheries Society WA-BC Chapter Meeting \hfill  2025
 
 *"Incorperating Human Dimensions into EBFM: Understanding Socioeconomic Consequences of Ecological Change"* American Fisheries Society Annual Conference \hfill Sep 2024
 
@@ -195,11 +184,49 @@ ICES (2022): Working Group on Technology Integration for Fishery-Dependent Data 
 
 ---------------------------------------------
 
+# AWARDS AND FUNDING
+[**Partnership Engage Grant **](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_engage_grants-subventions_d_engagement_partenarial-eng.aspx) *Social Sciences and Humanities Research Council, Canada*\hfill 2024
+
+[**Buck Suzuki Legacy Bursary Award**](https://www.bucksuzuki.org/diving_into_fishing_misconceptions) *T. Buck Suzuki Foundation*\hfill 2022
+
+[**Frances Severance Thesis Distinction Award**](https://www.udel.edu/academics/colleges/ceoe/about/news/2021/may/ceoe-honors-announced/) *University of Delaware*\hfill 2021
+
+**Daiber Fellowship** *University of Delaware*\hfill 2019
+
+[**Women of Promise Award**](https://www.udel.edu/udaily/2019/march/valerie-biden-owens-women-of-promise-erin-rezich-regina-sims-wright-diversity-awards/) *University of Delaware* \hfill 2019
+
+**Okie Fellowship** *University of Delaware* \hfill 2018
+
+<!--
+**Dean’s List** *Colby College* \hfill 2014-2015
+-->
+
+---------------------------------------------
+
+\newpage
+
+---------------------------------------------
+
+# OUTREACH AND ENGAGEMENT 
+
+*REDI Committee* **Student rep**, UBC Institute for the Oceans and Fisheries \hfill 2022-present
+
+*Society for Women in Marine Science* **Co-Chair**, University of Delaware Chapter \hfill 2019-2020
+
+*Graduate Student Association* **Co-Chair**, UD School of Marine Science and Policy \hfill 2019-2020
+
+*Hutton Junior Fisheries Biology Internship* **Reviewer**, American Fisheries Society \hfill 2024
+
+*John A. Knauss Marine Policy Fellowship* **Reviewer**, NOAA Sea Grant  \hfill 2022, 2024
+
+
+---------------------------------------------
+
 # EXPERTISE
 
 **Computing** 
 
-- Advanced in R, WinBUGS, Git/GitHub; experience with C++, Stan, Stock Synthesis, Template Model Builder (TMB) 
+- Advanced in R, WinBUGS, JAGS, Git/GitHub; experience with C++, Stan, Stock Synthesis, Template Model Builder (TMB), VAST 
 
 **Field & Lab** 
 

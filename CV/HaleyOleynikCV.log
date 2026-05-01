@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.14)  14 OCT 2025 11:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.14)  1 MAY 2026 12:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -691,7 +691,7 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
 Package rerunfilecheck Info: File `HaleyOleynikCV.out' has not changed.
-(rerunfilecheck)             Checksum: D2136F63119243FE7B75274C85B781D8;1000.
+(rerunfilecheck)             Checksum: 07C9F755DF7FC9CCF5DF797CE438A05A;1000.
  ) 
 Here is how much of TeX's memory you used:
  24171 strings out of 469729
@@ -700,12 +700,12 @@ Here is how much of TeX's memory you used:
  52161 multiletter control sequences out of 15000+600000
  660992 words of font info for 92 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 117i,12n,121p,1026b,513s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,12n,121p,1026b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/holeynik/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/holeynik/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/holeynik/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/holeynik/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/holeynik/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/holeynik/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/holeynik/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/holeynik/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on HaleyOleynikCV.pdf (5 pages, 131365 bytes).
+Output written on HaleyOleynikCV.pdf (5 pages, 131698 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
+ 149 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  14 named destinations out of 1000 (max. 500000)
  77 words of extra memory for PDF output out of 10000 (max. 10000000)
 
