@@ -20,9 +20,7 @@ After graduating from UD I completed a [NOAA Sea Grant Knauss Marine Policy Fell
 
 #### Current Research
 
-My research interests include quantitative fish ecology, population modeling, Bayesian fisheries assessment, and fisheries management evaluation. My PhD research explores what factors impact Pacific salmon and steelhead stocks by conducting multivariate stock-recruit analyses for over 100 stocks of Chinook, Coho, Sockeye, Chum, and Steelhead. 
-
-I'm passionate about making science, particularly quantitative and technical, inclusive and accessible to all. As I learn, [I will share](https://haleyoleynik.github.io/info.html). Please feel free to [reach out](https://haleyoleynik.github.io/Contact.html)! I'm always happy to chat about R, fisheries, modeling, Knauss, UD, UBC, etc. 
+My research interests include quantitative fish ecology, population modeling, Bayesian fisheries assessment, and fisheries management evaluation. My PhD research explores ecological and anthropogenic factors driving Pacific salmon and steelhead productivity declines in the Fraser River in British Columbia. This work uses multivariate stock-recruit models to take a broad look across species and populations in the Fraser River to understand biological and fishery consequences of changing ecological conditions, and multispecies interactions. 
 
 ## TL;DR
 
