@@ -41,16 +41,9 @@ urlcolor: blue
 
 *Institute for the Oceans and Fisheries* University of British Columbia 
 
-* Multifactor, multistock analysis of salmon and steelhead population dynamics in British Columbia and a retrospective analysis of ecological and socioeconomic conditions in these fisheries
-* Population modeling to identify drivers of productivity declines in Fraser River salmon populations, with the goal of furthering understanding of regional, multi-species population patterns, and identifying ecological and anthropogenic drivers of salmon population decline
+* Population modeling to identify drivers of productivity declines in Fraser River salmon and steelhead populations, with the goal of furthering understanding of regional, multi-species population patterns,  identifying ecological and anthropogenic drivers of salmon population decline, and incorperating ecosystem information into fisheries and management assessment
+
 - *Skills: Statistical modeling, Bayesian modeling, R programming, Git/Github, stakeholder engagement*
-
-**Research Analyst** \hfill Feb 2026 - Present
-
-*Pacific Salmon Commission*  Vancouver, B.C.
-
-- Analyze salmon monitoring data to statistically evaluate the use of a new monitoring method for salmon passage through Hells Gate, a narrow gorge which poses passage challenges for salmon migrating up the Fraser River to their spawning grounds
-- *Skills: Statistical modeling, R programming,  Git/Github*
 
 **Graduate Research Assistant** \hfill Jan 2024 - Present
 
@@ -59,7 +52,12 @@ urlcolor: blue
 - Part time research analyst conducting statistical modeling of salmon passage and survival through dams in the Willamette River system in Oregon
 - *Skills: Statistical modeling, Bayesian modeling, JAGS programming, data analysis, stakeholder engagement, R programming*
 
-\newpage
+**Research Analyst** \hfill Feb 2026 - May 2026
+
+*Pacific Salmon Commission*  Vancouver, B.C.
+
+- Analyzed salmon monitoring data to statistically evaluate the use of a new monitoring method for salmon passage through Hells Gate, a narrow gorge which poses passage challenges for salmon migrating up the Fraser River to their spawning grounds
+- *Skills: Statistical modeling, R programming,  Git/Github*
 
 **Aquatic Biologist II** \hfill Jun 2025 - March 2026
 
@@ -68,6 +66,7 @@ urlcolor: blue
 - Use empirical Harbour Seal diet data and modeled diet data from Ecopath with Ecospace ecosystem models to statistically validate model outputs and inform field sampling programs
 - *Skills: Spatio-temporal modeling, ecosystem modeling, TMB programming, R programming*
 
+\newpage
 
 **M.S. Student** \hfill Sept 2018 - July 2020
 
@@ -100,7 +99,7 @@ urlcolor: blue
 
 # PROFESSIONAL EXPERIENCE
 
-**Teaching Assistant** \hfill Sept 2023 - December 2025
+**Teaching Assistant** \hfill Sept 2023 - Present
 
 *Master of Data Science Program* University of British Columbia 
 
@@ -110,13 +109,19 @@ Teaching assistant for the following MDS courses:
 - DSCI 562: Regression II 
 - DSCI 554: Experimentation and Causal Inference
 
+**Teaching Assistant** \hfill Spring 2026
+
+*Ecosystem Modeling with EwE* University of British Columbia 
+
+Teaching assistant for a graduate level Ecosystem modeling course, in the Institute of the Oceans and Fisheries, which taught the use of Ecopath with Ecosim for marine ecosystem modeling. 
+
 **Graduate Writing Consultant** \hfill Sept 2022 - April 2024
 
 *Center for Writing and Scholarly Communication* University of British Columbia 
 
 - Provided written and in-person consultations to graduate and undergraduate students on written work including class assignments, manuscripts, and dissertations
 
-**2021 NOAA Sea Grant John A. Knauss Marine Policy Fellow** \hfill Feb 2021 - Feb 2022
+**NOAA Sea Grant John A. Knauss Marine Policy Fellow** \hfill Feb 2021 - Feb 2022
 
 *National Stock Assessment Program* NOAA Fisheries 
 
@@ -124,7 +129,7 @@ Teaching assistant for the following MDS courses:
 
 \newpage
 
-**Communications Committee Chair** \hfill Oct 2022 - Present
+**Communications Committee Chair** \hfill Oct 2022 - June 2026
 
 - **Committee Member** \hfill June 2015 - Oct 2022
 
@@ -164,13 +169,15 @@ ICES (2022): Working Group on Technology Integration for Fishery-Dependent Data 
 
 # PRESENTATIONS
 
-*"Impacts of Dam Operations on Mortality and Injury of Juvenile Chinook Salmon at Cougar Dam"* Willamette Science Review \hfill March 2026
+*"Impacts of Dam Operations on Mortality and Injury of Juvenile Chinook Salmon at Cougar Dam"* Willamette Science Review \hfill  2026
 
-*"Drivers of Productivity in Fraser River Salmon"* American Fisheries Society WA-BC Chapter Meeting \hfill  2025
+*"Population-level survival impacts of Harbour seal foraging on juvenile Pacific salmon, and the mechanistic links"*  PICES \hfill  2025
 
-*"Incorperating Human Dimensions into EBFM: Understanding Socioeconomic Consequences of Ecological Change"* American Fisheries Society Annual Conference \hfill Sep 2024
+*"Drivers of Productivity in Fraser River Salmon"* American Fisheries Society WA-BC Chapter Meeting \hfill   2025
 
-*"Integrating Electronic Monitoring Data into U.S. Fish Stock Assessments"* World Fisheries Congress \hfill Mar 2024
+*"Incorperating Human Dimensions into EBFM: Understanding Socioeconomic Consequences of Ecological Change"* American Fisheries Society Annual Conference \hfill  2024
+
+*"Integrating Electronic Monitoring Data into U.S. Fish Stock Assessments"* World Fisheries Congress \hfill  2024
 
 *"Fisheries Science and Management"* Guest Lecture, George Washington University Marine Ecology Course (BISC 3454) \hfill Dec 2024
 
@@ -198,6 +205,7 @@ ICES (2022): Working Group on Technology Integration for Fishery-Dependent Data 
 **Okie Fellowship** *University of Delaware* \hfill 2018
 
 <!--
+**Okie Fellowship** *University of Delaware* \hfill 2018
 **Dean’s List** *Colby College* \hfill 2014-2015
 -->
 
