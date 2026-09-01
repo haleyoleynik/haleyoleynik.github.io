@@ -63,7 +63,7 @@ urlcolor: blue
 
 *Department of Fisheries and Oceans Canada* Vancouver, B.C.
 
-- Use empirical Harbour Seal diet data and modeled diet data from Ecopath with Ecospace ecosystem models to statistically validate model outputs and inform field sampling programs
+- Used empirical harbour seal diet data and modeled diets from Ecopath with Ecospace ecosystem models to statistically validate model outputs and inform field sampling programs
 - *Skills: Spatio-temporal modeling, ecosystem modeling, TMB programming, R programming*
 
 \newpage
